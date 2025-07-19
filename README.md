@@ -1,14 +1,1 @@
-{
-  "name": "angular-assistencia-tecnica",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    // ... todas as dependências listadas
-  }
-}
+
